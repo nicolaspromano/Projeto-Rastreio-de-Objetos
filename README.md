@@ -1,6 +1,6 @@
 # 🎥 Detector de Movimento em Tempo Real com OpenCV e Tkinter
 
-Este projeto é uma aplicação do conteúdo abordado na disciplina de Processamento Digital de Sinais implementada em Python. Ele utiliza a biblioteca **OpenCV** para detectar movimento em arquivos de vídeo (MP4, AVI, MOV) usando a técnica de **Subtração de Background Baseada em Diferença de Frames**.
+Este projeto é uma aplicação do conteúdo abordado na disciplina de Processamento Digital de Sinais. Ele utiliza a biblioteca **OpenCV** para detectar movimento em arquivos de vídeo (MP4, AVI, MOV) usando a técnica de **Subtração de Background Baseada em Diferença de Frames**.
 
 O software inclui uma interface gráfica (GUI) desenvolvida com **Tkinter** para permitir ao usuário ajustar e comparar diferentes conjuntos de parâmetros de processamento.
 
