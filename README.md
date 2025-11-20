@@ -71,5 +71,7 @@ python [nome_do_arquivo].py
 ## Autores
 
 Nicolas Romano
+
 Maria Eduarda Romana
+
 Vitor Luiz Viana
