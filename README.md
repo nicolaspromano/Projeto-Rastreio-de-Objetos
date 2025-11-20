@@ -66,3 +66,10 @@ Salve o código como um arquivo Python e execute-o:
 
 ```bash
 python [nome_do_arquivo].py
+```
+---
+## Autores
+
+Nicolas Romano
+Maria Eduarda Romana
+Vitor Luiz Viana
